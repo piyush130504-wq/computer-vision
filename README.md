@@ -5,7 +5,7 @@ Dataset Details
 	•	Classes: 10 digits, roughly balanced (~6,000 train samples per class)
 	•	Source: Derived from NIST Special Databases 1 & 3 (Census workers + high school students)
 
-What it is
+What it is?
 
 
 
